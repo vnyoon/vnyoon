@@ -6,7 +6,9 @@ I’m a passionate FrontEnd Developer from China 🇨🇳.
 - 💬 Ask me about anything: [here](https://github.com/vnyoon/vnyoon/issues)
 - 📫 How to reach me: [vnyoon@outlook.com]() | [vneyoon@gmail.com]()(the username is different) | [vnyoon@163.com]()
 
-You can also read my articles in [JueJin](https://juejin.cn/user/3007909652072638/posts)(稀土掘金). Have a nice day!
+You can also read my articles in [JueJin](https://juejin.cn/user/3007909652072638/posts)(稀土掘金).
+
+Have a nice day!
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=vnyoon&show_icons=true&hide_border=true" alt="Vayne Yoon's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnyoon&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
